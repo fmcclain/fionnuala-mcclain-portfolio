@@ -18,9 +18,7 @@ Key contributions include:
 - Conducting physical pool testing to identify mechanical and integration issues
 - Troubleshooting the design to improve performance
 
-Our team successfully navigated multiple segments of the obstacle course, one of only three teams to do so out of twelve.
-
-Documentation: `/battle-boats`
+One of three teams to complete the proposed challenge within the given 3-week time period.
 
 ---
 
@@ -34,5 +32,3 @@ Key contributions include:
 - Coordinating feature development and debugging within the team
 
 Presented the project in front of a panel of judges and professors, earning the Most Innovative Award.
-
-Documentation (code maintained in private team repository): `/transcrib8r`
