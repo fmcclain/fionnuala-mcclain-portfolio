@@ -22,3 +22,7 @@ Frontend:
 
 ### Note on Code Availability
 The source code for this project is maintained in a private team repository and is not publicly available due to collaboration agreements and sensitive information.
+
+## Demo Video
+
+Watch a demo of the Transcrib8r UI in action: https://docs.google.com/videos/d/1eA_avtKOZVf9EtMYZ4vtPQbBsBF-O9bmi3_cH_f-xXs/edit?usp=sharing
