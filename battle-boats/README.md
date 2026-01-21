@@ -15,6 +15,3 @@ Mechanical design, fabrication, and troubleshooting in close collaboration with 
 
 ### Tools & Skills
 CAD, prototyping, fabrication, physical testing and troubleshooting, cross-disciplinary collaboration, autonomous vehicle systems
-
-### Outcome
-One of only 3 out of 12 teams to successfully complete multiple segments of the obstacle course
